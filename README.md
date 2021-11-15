@@ -1,0 +1,2 @@
+# human-posture-detection
+- This database contains 563 attributes, but all published experiments refer to using a subset of 563 of them. The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKINGUPSTAIRS, WALKINGDOWNSTAIRS,SITTING, STANDING, LAYING) wearing a smartphone (SamsungGalaxy S II) on the waist. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30%the test data.
